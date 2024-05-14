@@ -1,8 +1,9 @@
 # Log Ingestor and Query Interface
 ## Project Snapshots
-![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/ed22ddbf-aaaa-4007-bf00-49bd27322589)
-![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/2e9d77bf-2561-4459-bc23-c75b1841e8de)
-![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/792302c2-ed96-41b3-93f2-d0c9aafae4d2)
+![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/1f15b38a-2b5c-4361-91ee-a1c457930e52)
+![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/ed5f1ba9-e436-4e34-9514-008e973ef695)
+![image](https://github.com/RaiyanArsh/Chat360-SDE-Assignment/assets/122980943/8e2a969a-a24c-423b-aecc-b77145401e2b)
+
 
 
 ## Quick Start
