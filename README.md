@@ -1,4 +1,4 @@
-# Dyte-Assignment : Log Ingestor and Query Interface
+# Log Ingestor and Query Interface
 ## Quick Start
 
 Here are some steps to run this project:
